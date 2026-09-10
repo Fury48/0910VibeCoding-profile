@@ -1,0 +1,17 @@
+{
+  "name": "최동주",
+  "affiliation": "고려대학교 스마트보안학부 25학번",
+  "intro": "고려대학교 스마트보안학부에 재학 중인 25학번 최동주입니다.",
+  "interests": ["게임하기", "스포츠 시청"],
+  "projects": [
+    {
+      "title": "NE:XT CONTEST — 고려대학교 지역 기반 중고거래 플랫폼",
+      "description": "바이브 코딩으로 제작 및 배포한 경험",
+      "url": ""
+    }
+  ],
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/Fury48" },
+    { "label": "Email", "url": "mailto:chlehdwn1122@gmail.com" }
+  ]
+}
